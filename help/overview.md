@@ -4,7 +4,7 @@ description: 觀看有關GenStudio for Performance Marketing功能的影片教�
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-source-git-commit: 62996e5f9182b3058cb176ffe131066d741799f8
+source-git-commit: 16e7ce896d450633183232443eb8a44cf3bb4b2b
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 1%
@@ -39,6 +39,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <div id="staff-picks-section">
 
 -->
+
 ## 員工精選內容
 
 <table>
@@ -61,7 +62,7 @@ Curated learning experiences by role and skill level are also offered in the cou
       <img alt="建立品牌內中繼廣告" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
-      <a href="./creating-experiences/creating-on-meta-ads.mdd">
+      <a href="./creating-experiences/creating-on-meta-ads.md">
     <strong>建立品牌內中繼廣告</strong>
     </a>
     </div>
