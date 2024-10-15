@@ -1,10 +1,10 @@
 ---
-title: GenStudio for Performance Marketing教學課程
+title: 適用於效能行銷Tutorials的GenStudio
 description: 觀看有關GenStudio for Performance Marketing功能的影片教學課程。 瞭解如何快速建立品牌內資產、產生變數和最佳化體驗。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-source-git-commit: 16e7ce896d450633183232443eb8a44cf3bb4b2b
+source-git-commit: 6ed3e02f8c8f8d5992476a309631e0108de99a98
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 1%
