@@ -5,12 +5,12 @@ user-guide-description: 檢視Adobe [!DNL GenStudio for Performance Marketing]�
 source-git-commit: f67dfa11724d8d9d3d91dc6baea6c1e9b8ab5078
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 
-# Adobe[!DNL GenStudio for Performance Marketing]教學課程 {#tutorials}
+# Adobe [!DNL GenStudio for Performance Marketing] 教學課程 {#tutorials}
 
 + [[!DNL GenStudio for Performance Marketing]個教學課程](overview.md)
 + 建立體驗{#creating-experiences}
