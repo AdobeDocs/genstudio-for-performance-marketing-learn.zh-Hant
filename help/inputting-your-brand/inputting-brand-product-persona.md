@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 429
 last-substantial-update: 2024-11-26T00:00:00Z
 jira: KT-16521
-source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
+exl-id: 23610bb4-583b-46d4-ae81-87bc719f6806
+source-git-commit: 0c3e7e39287b9b118d92a3739cf4600b6af07cef
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # 輸入品牌、產品和角色
 
