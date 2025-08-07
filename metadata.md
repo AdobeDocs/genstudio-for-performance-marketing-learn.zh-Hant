@@ -7,7 +7,7 @@ feature-set: GenStudio for Performance Marketing
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing-learn.zh-Hant
 index: true
-source-git-commit: f760069318d6fef1c6ffd6e01b05b87f7ae47017
+source-git-commit: 609cd9e1a85c916270009ac12f2520d3ebc2d6df
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 98%
