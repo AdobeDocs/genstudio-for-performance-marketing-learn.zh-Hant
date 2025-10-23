@@ -1,6 +1,6 @@
 ---
 title: 輸入品牌、產品和角色
-description: 本影片逐步詳細說明如何將貴公司的品牌指南、產品和關鍵行銷角色輸入至 GenStudio for Performance Marketing。
+description: 本影片逐步詳細說明如何將貴公司的品牌指南、產品和關鍵行銷人物誌輸入至 GenStudio for Performance Marketing。
 feature: Brand Personalization, Product Personalization, Persona Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -18,6 +18,6 @@ ht-degree: 83%
 
 # 輸入品牌、產品和角色
 
-本影片逐步詳細說明如何將貴公司的品牌指南、產品和關鍵行銷角色輸入至 GenStudio for Performance Marketing。
+本影片逐步詳細說明如何將貴公司的品牌指南、產品和關鍵行銷人物誌輸入至 GenStudio for Performance Marketing。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439382/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
