@@ -20,4 +20,4 @@ ht-degree: 83%
 
 本影片逐步詳細說明如何將貴公司的品牌指南、產品和關鍵行銷人物誌輸入至 GenStudio for Performance Marketing。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439382/?captions=chi_hant&learn=on&enablevpops)
