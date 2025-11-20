@@ -20,4 +20,4 @@ ht-degree: 36%
 
 依照在 [!DNL GenStudio for Performance Marketing] 中建立元廣告 (meta ad) 的逐步產品操作示範來進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435089/?captions=chi_hant&learn=on)
