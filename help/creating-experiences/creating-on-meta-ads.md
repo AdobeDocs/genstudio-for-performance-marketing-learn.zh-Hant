@@ -1,6 +1,6 @@
 ---
-title: 建立品牌元廣告
-description: 按照創建元廣告 [!DNL GenStudio for Performance Marketing]的分步產品演練進行作。
+title: 建立品牌內Meta廣告
+description: 依照逐步產品說明在 [!DNL GenStudio for Performance Marketing]中建立中繼廣告。
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
 level: Beginner, Intermediate, Experienced
@@ -16,8 +16,8 @@ ht-degree: 36%
 
 ---
 
-# 建立品牌元廣告
+# 建立品牌內中繼廣告
 
 依照在 [!DNL GenStudio for Performance Marketing] 中建立元廣告 (meta ad) 的逐步產品操作示範來進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435089/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
