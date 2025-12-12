@@ -172,6 +172,6 @@ Curated learning experiences by role and skill level are also offered in the cou
  
 ## Additional resources
 
-[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
 
 -->
