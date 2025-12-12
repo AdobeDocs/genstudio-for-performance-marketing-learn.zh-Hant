@@ -1,14 +1,14 @@
 ---
-title: GenStudio for Performance MarketingTutorials
+title: GenStudio for Performance Marketing教學課程
 description: 觀看有關GenStudio for Performance Marketing功能的影片教學課程。 了解如何快速建立符合品牌形象的資產、產生變化版本並最佳化體驗。
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
-source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
+source-git-commit: 61a80be078be8ef78113c8fb472c8fee80334001
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 24%
+ht-degree: 42%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 24%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="輸入品牌、產品和角色" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439382/?format=jpeg&nocache=1732633204686&captions=chi_hant" alt="輸入品牌、產品和角色"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="輸入品牌、產品和角色"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -41,10 +41,10 @@ ht-degree: 24%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" title="輸入品牌、產品和角色">輸入品牌、產品和角色</a>
                     </p>
-                    <p class="is-size-6">本影片逐步解說如何將您公司的品牌方針、產品和主要行銷角色輸入到GenStudio for Performance Marketing。</p>
+                    <p class="is-size-6">本影片逐步詳細說明如何將貴公司的品牌指南、產品和關鍵行銷人物誌輸入至 GenStudio for Performance Marketing。</p>
                 </div>
                 <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看內容</span>
                 </a>
             </div>
         </div>
@@ -67,7 +67,7 @@ ht-degree: 24%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-brand-emails.md" title="建立品牌內行銷電子郵件" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435078/?format=jpeg&nocache=1732633205780&captions=chi_hant" alt="建立品牌內行銷電子郵件"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="建立品牌內行銷電子郵件"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,7 +80,7 @@ ht-degree: 24%
                     <p class="is-size-6">檢視逐步說明，了解如何使用 Adobe 的 [!DNL GenStudio for Performance Marketing] 建立符合品牌形象的行銷電子郵件。</p>
                 </div>
                 <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看內容</span>
                 </a>
             </div>
         </div>
@@ -89,8 +89,8 @@ ht-degree: 24%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./creating-experiences/creating-on-meta-ads.md" title="建立品牌內中繼廣告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435089/?format=jpeg&nocache=1732633205785&captions=chi_hant" alt="建立品牌內中繼廣告"
+                    <a href="./creating-experiences/creating-on-meta-ads.md" title="建立品牌內Meta廣告" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="建立品牌內Meta廣告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -98,12 +98,12 @@ ht-degree: 24%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="建立品牌內中繼廣告">建立品牌內中繼廣告</a>
+                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="建立品牌內Meta廣告">建立品牌內Meta廣告</a>
                     </p>
                     <p class="is-size-6">依照在 [!DNL GenStudio for Performance Marketing] 中建立元廣告 (meta ad) 的逐步產品操作示範來進行。</p>
                 </div>
                 <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看內容</span>
                 </a>
             </div>
         </div>
@@ -141,7 +141,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435078?format=jpeg&captions=chi_hant" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
@@ -154,7 +154,7 @@ Curated learning experiences by role and skill level are also offered in the cou
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435089?format=jpeg&captions=chi_hant" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
@@ -172,6 +172,6 @@ Curated learning experiences by role and skill level are also offered in the cou
  
 ## Additional resources
 
-[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
 
 -->
